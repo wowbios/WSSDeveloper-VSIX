@@ -1,0 +1,1 @@
+﻿Расширение Visual Studio 2017 для разработчиков WSSDocs @ WSS-Consulting.

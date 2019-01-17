@@ -1,0 +1,359 @@
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSDeveloper.csprojResolveAssemblyReference.cache
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSDeveloper.csproj.ResolveComReference.cache
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSDeveloper.g.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\VSPackage.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Commands.DeployPackageDestinationForm.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.WSSOptionsPageControl.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Commands.DeployPackageDestinationForm.af.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSDeveloper.csproj.GenerateResource.Cache
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\LicenseTerms.txt
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\Resources\logo.png
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\Resources\wsslogo.ico
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\WSSDeveloper.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\WSSDeveloper.pdb
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\af\WSSDeveloper.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\WSSDeveloper.pkgdef
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\WSSDeveloper.vsix
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\extension.vsixmanifest
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\Microsoft.WindowsAPICodePack.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\Microsoft.WindowsAPICodePack.Shell.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSDeveloper.cto
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\VSCT.read.1.tlog
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\VSCT.write.1.tlog
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\CtoResourceMerger.cache
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\VSPackage.resources.original
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\af\WSSDeveloper.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSDeveloper.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSDeveloper.pdb
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSDeveloper.pkgdef
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSDeveloper.latest.pkgdef
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\extension.vsixmanifest
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\bin\Ude.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Commands.AddToTypes.AddToTypesForm.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\LicenseTerms.txt
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Resources\logo.png
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Resources\wsslogo.ico
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\WSSDeveloper.dll.config
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\WSSDeveloper.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\WSSDeveloper.pdb
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\af\WSSDeveloper.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\WSSDeveloper.pkgdef
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\WSSDeveloper.vsix
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\extension.vsixmanifest
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.CoreUtility.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.12.0.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Framework.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Threading.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Utilities.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Validation.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.WindowsAPICodePack.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.WindowsAPICodePack.Shell.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Newtonsoft.Json.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\StreamJsonRpc.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Ude.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\WSS.Wizards.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\EnvDTE.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\System.Threading.Tasks.Dataflow.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\stdole.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.MSXML.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\WSS.Wizards.pdb
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.CoreUtility.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.OLE.Interop.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Framework.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.12.0.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Threading.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Utilities.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Validation.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Newtonsoft.Json.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\StreamJsonRpc.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\cs\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\de\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\es\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\fr\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\it\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ja\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ko\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\pl\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\pt-BR\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ru\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\tr\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\zh-Hans\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\zh-Hant\StreamJsonRpc.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.csprojAssemblyReference.cache
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.csproj.ResolveComReference.cache
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.g.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\VSPackage.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Commands.AddToTypes.AddToTypesForm.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Commands.DeployPackageDestinationForm.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.WSSOptionsPageControl.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Commands.DeployPackageDestinationForm.af.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.csproj.GenerateResource.cache
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.cto
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\VSCT.read.1.tlog
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\VSCT.write.1.tlog
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\resources.json
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ctoFiles.json
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\mergeCto.cache
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.csproj.CoreCompileInputs.cache
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\af\WSSDeveloper.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.csproj.CopyComplete
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.pdb
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.pkgdef
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSDeveloper.latest.pkgdef
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\extension.vsixmanifest
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\files.json
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\TemplateManifests\templateManifest0.1033.vstman
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\TemplateManifests\templateManifest1.1033.vstman
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\CustomProject.png
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\CustomProject.csproj
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Types.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Properties\AssemblyInfo.cs
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Properties\VersionProvider.cs
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Properties\Key.snk
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Deploy\DeployParams.txt
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Deploy\Manifest.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Deploy\setup.bat
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Deploy\uninstall.bat
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Release\setup.bat
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Release\uninstall.bat
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Release\module.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Release\module.log
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Release\module.wsp
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\Release\module.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ProjectTemplates\WSS\CSharp\1033\CustomProject\CustomProject.vstemplate
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Types_proj\Types_proj.png
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Types_proj\Types_proj.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Types_proj\Types_proj.vstemplate
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Aspx\Aspx.png
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Aspx\Page.aspx
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Aspx\Page.aspx.cs
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Aspx\Aspx.vstemplate
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Service\Asmx.png
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Service\Service.asmx
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Service\Service.asmx.cs
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Service\Service.vstemplate
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\SolutionHandler\SolutionHandler.png
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\SolutionHandler\SolutionHandler.cs
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\SolutionHandler\SolutionHandler.vstemplate
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\AjaxHandler\AjaxHandler.png
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\AjaxHandler\AjaxHandler.ashx
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\AjaxHandler\AjaxHandler.ashx.cs
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\AjaxHandler\AjaxHandler.vstemplate
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\ItemHandler\ItemHandler.png
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\ItemHandler\ItemHandler.cs
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\ItemHandler\ItemHandler.vstemplate
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Job\Job.png
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Job\Job.cs
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\Job\Job.vstemplate
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\ListFormControl\ListFormControl.png
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\ListFormControl\ListFormControl.cs
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\ListFormControl\ListFormControl.js
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\ItemTemplates\WSS\CSharp\1033\ListFormControl\ListFormControl.vstemplate
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\templateFiles.json
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\System.Net.Http.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\System.ValueTuple.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Telemetry.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.RemoteControl.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.VisualStudio.Utilities.Internal.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\System.ValueTuple.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\cs\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\de\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\es\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\fr\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\it\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ja\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ko\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\pl\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\pt-BR\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\ru\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\tr\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\zh-Hans\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\bin\zh-Hant\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Properties.Resources.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSSDeveloper\obj\Debug\VSPackage.resources.original
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\LicenseTerms.txt
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Resources\logo.png
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Resources\wsslogo.ico
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\WSSDeveloper.dll.config
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\WSSDeveloper.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\WSSDeveloper.pdb
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\af\WSSDeveloper.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\WSSDeveloper.pkgdef
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.CoreUtility.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.12.0.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Framework.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Threading.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Utilities.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Validation.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.WindowsAPICodePack.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.WindowsAPICodePack.Shell.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Newtonsoft.Json.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\StreamJsonRpc.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\System.Net.Http.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\System.ValueTuple.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Ude.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\WSS.Wizards.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\EnvDTE.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Telemetry.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\System.Threading.Tasks.Dataflow.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\stdole.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.RemoteControl.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Utilities.Internal.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.MSXML.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\WSS.Wizards.pdb
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.CoreUtility.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.OLE.Interop.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Framework.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Shell.12.0.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Threading.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Utilities.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.Validation.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Newtonsoft.Json.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\StreamJsonRpc.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\System.ValueTuple.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\cs\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\de\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\es\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\fr\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\it\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ja\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ko\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\pl\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\pt-BR\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ru\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\tr\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\zh-Hans\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\zh-Hant\Microsoft.VisualStudio.CoreUtility.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\cs\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\de\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\es\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\fr\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\it\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ja\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ko\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\pl\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\pt-BR\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\ru\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\tr\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\zh-Hans\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\zh-Hant\StreamJsonRpc.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.csprojAssemblyReference.cache
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.csproj.ResolveComReference.cache
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.g.resources
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\VSPackage.resources
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Commands.AddToTypes.AddToTypesForm.resources
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Commands.DeployPackageDestinationForm.resources
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.WSSOptionsPageControl.resources
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Properties.Resources.resources
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSConsulting.WSSDeveloper.Commands.DeployPackageDestinationForm.af.resources
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.csproj.GenerateResource.cache
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.cto
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\VSCT.read.1.tlog
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\VSCT.write.1.tlog
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\resources.json
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\ctoFiles.json
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\VSPackage.resources.original
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\mergeCto.cache
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.csproj.CoreCompileInputs.cache
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\af\WSSDeveloper.resources.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.csproj.CopyComplete
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.dll
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.pdb
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.pkgdef
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\WSSDeveloper.latest.pkgdef
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\WSSDeveloper.vsix
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\bin\extension.vsixmanifest
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\extension.vsixmanifest
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\files.json
+D:\GitHub\WSSDeveloper 17\WSSDeveloper\obj\Debug\createTemplateManifests.cache

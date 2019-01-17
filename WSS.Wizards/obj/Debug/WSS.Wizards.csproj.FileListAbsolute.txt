@@ -1,0 +1,31 @@
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSS.Wizards\bin\WSS.Wizards.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSS.Wizards\bin\WSS.Wizards.pdb
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSS.Wizards\obj\Debug\WSS.Wizards.CustomProjectWizardForm.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSS.Wizards\obj\Debug\WSS.Wizards.csproj.GenerateResource.Cache
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSS.Wizards\obj\Debug\WSS.Wizards.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper\WSS.Wizards\obj\Debug\WSS.Wizards.pdb
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\bin\WSS.Wizards.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\bin\WSS.Wizards.pdb
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\bin\EnvDTE.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\bin\stdole.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\obj\Debug\WSS.Wizards.CustomProjectWizardForm.resources
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\obj\Debug\WSS.Wizards.csproj.GenerateResource.cache
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\obj\Debug\WSS.Wizards.csproj.CoreCompileInputs.cache
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\obj\Debug\WSS.Wizards.csproj.CopyComplete
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\obj\Debug\WSS.Wizards.dll
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\obj\Debug\WSS.Wizards.pdb
+D:\TFS\4.WSS.Developer\WSSDeveloper - 2017\WSS.Wizards\obj\Debug\WSS.Wizards.csprojAssemblyReference.cache
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\bin\WSS.Wizards.dll
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\bin\WSS.Wizards.pdb
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\bin\EnvDTE.dll
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\bin\stdole.dll
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\obj\Debug\WSS.Wizards.CustomProjectWizardForm.resources
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\obj\Debug\WSS.Wizards.csproj.GenerateResource.cache
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\obj\Debug\WSS.Wizards.csproj.CoreCompileInputs.cache
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\obj\Debug\WSS.Wizards.csproj.CopyComplete
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\obj\Debug\WSS.Wizards.dll
+D:\GitHub\WSSDeveloper 17\WSS.Wizards\obj\Debug\WSS.Wizards.pdb

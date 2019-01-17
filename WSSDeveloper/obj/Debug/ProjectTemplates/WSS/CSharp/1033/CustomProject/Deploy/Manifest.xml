@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Solution xmlns='http://schemas.microsoft.com/sharepoint/' SolutionId='$guid2$'>
+  <Assemblies>
+    <Assembly Location="$projectname$.dll" DeploymentTarget='GlobalAssemblyCache'></Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    
+    
+    <TemplateFile Location='LAYOUTS\WSS\DBF\Types\Types_$projectname$.xml'/>
+  </TemplateFiles>
+</Solution>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<VSTemplate Version="3.0.0" Type="Project" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005"
+            xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>WSSDocs модуль</Name>
+    <Description>Проект модуля для WSSDocs</Description>
+    <Icon>CustomProject.png</Icon>
+    <ProjectType>CSharp</ProjectType>
+    <RequiredFrameworkVersion>3.5</RequiredFrameworkVersion>
+    <SortOrder>1000</SortOrder>
+    <TemplateID>4d25d463-f1f4-486c-bfd6-017f1b16dcc8</TemplateID>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>WSSC.V4.DMS.Module</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+  </TemplateData>
+  <TemplateContent>
+    <Project File="CustomProject.csproj" TargetFileName="$projectname$.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="Types_$projectname$.xml">Types.xml</ProjectItem>
+      
+      <!-- Properties -->
+      <Folder Name="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="VersionProvider.cs">VersionProvider.cs</ProjectItem>
+        <ProjectItem TargetFileName="Key.snk">Key.snk</ProjectItem>
+      </Folder>
+
+      <!-- Deploy -->
+      <Folder Name="Deploy">
+        <ProjectItem ReplaceParameters="true" TargetFileName="DeployParams.txt">DeployParams.txt</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Manifest.xml">Manifest.xml</ProjectItem>
+        <ProjectItem TargetFileName="setup.bat">setup.bat</ProjectItem>
+        <ProjectItem TargetFileName="uninstall.bat">uninstall.bat</ProjectItem>
+      </Folder>
+
+      <!-- Release -->
+      <Folder Name="Release">
+        <ProjectItem TargetFileName="setup.bat">setup.bat</ProjectItem>
+        <ProjectItem TargetFileName="uninstall.bat">uninstall.bat</ProjectItem>
+        <ProjectItem TargetFileName="$projectname$.dll">module.dll</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="$projectname$.log">module.log</ProjectItem>
+        <ProjectItem TargetFileName="$projectname$.wsp">module.wsp</ProjectItem>
+        <ProjectItem TargetFileName="$projectname$.xml">module.xml</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+  <WizardExtension>
+    <Assembly>WSS.Wizards, Version=1.0.0.0,Culture=neutral,PublicKeyToken=9f4da00116c38ec5</Assembly>
+    <FullClassName>WSS.Wizards.WSSCustomProjectTemplateWizard</FullClassName>
+  </WizardExtension>
+</VSTemplate>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>Обработчик на решение</Name>
+    <Description>Обработчик на решение</Description>
+    <Icon>SolutionHandler.png</Icon>
+    <TemplateID>14FA8A4F-DFF4-482E-9770-3FC806442AB5</TemplateID>
+    <ProjectType>CSharp</ProjectType>
+    <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <DefaultName>SolutionHandler.cs</DefaultName>
+    <TemplateGroupID>WSS.Templates</TemplateGroupID>
+  </TemplateData>
+  <TemplateContent>
+    <ProjectItem ReplaceParameters="true" TargetFileName="$fileinputname$.cs">SolutionHandler.cs</ProjectItem>
+  </TemplateContent>
+  <WizardExtension>
+    <Assembly>WSS.Wizards, Version=1.0.0.0,Culture=neutral,PublicKeyToken=9f4da00116c38ec5</Assembly>
+    <FullClassName>WSS.Wizards.WSSItemTemplateWizard</FullClassName>
+  </WizardExtension>
+</VSTemplate>

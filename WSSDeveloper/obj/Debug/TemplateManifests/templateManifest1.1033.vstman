@@ -1,0 +1,138 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>WSS\CSharp\1033\Types_proj</RelativePathOnDisk>
+    <TemplateFileName>Types_proj.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>Types.xml</Name>
+        <Description>Types.xml</Description>
+        <Icon>Types_proj.png</Icon>
+        <TemplateID>012DB310-AB6B-48A4-AEDD-1E7F3BBB3D71</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>Types_proj.xml</DefaultName>
+        <TemplateGroupID>WSS.Templates</TemplateGroupID>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>WSS\CSharp\1033\Aspx</RelativePathOnDisk>
+    <TemplateFileName>Aspx.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>ASPX страница</Name>
+        <Description>ASPX страница</Description>
+        <Icon>Aspx.png</Icon>
+        <TemplateID>F1ED5FB4-DF2B-4605-B0B8-BF66612C5BE0</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>Page</DefaultName>
+        <TemplateGroupID>WSS.Templates</TemplateGroupID>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>WSS\CSharp\1033\Service</RelativePathOnDisk>
+    <TemplateFileName>Service.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>ASMX сервис</Name>
+        <Description>ASMX сервис</Description>
+        <Icon>Asmx.png</Icon>
+        <TemplateID>D004EDC7-277B-4F0C-B80B-5BE215742586</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>Service</DefaultName>
+        <TemplateGroupID>WSS.Templates</TemplateGroupID>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>WSS\CSharp\1033\SolutionHandler</RelativePathOnDisk>
+    <TemplateFileName>SolutionHandler.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>Обработчик на решение</Name>
+        <Description>Обработчик на решение</Description>
+        <Icon>SolutionHandler.png</Icon>
+        <TemplateID>14FA8A4F-DFF4-482E-9770-3FC806442AB5</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>SolutionHandler.cs</DefaultName>
+        <TemplateGroupID>WSS.Templates</TemplateGroupID>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>WSS\CSharp\1033\AjaxHandler</RelativePathOnDisk>
+    <TemplateFileName>AjaxHandler.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>Обработчик Ajax запросов</Name>
+        <Description>Обработчик Ajax запросов</Description>
+        <Icon>AjaxHandler.png</Icon>
+        <TemplateID>CC9514A3-BFE4-49FD-98A1-501494E73484</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>AjaxHandler</DefaultName>
+        <TemplateGroupID>WSS.Templates</TemplateGroupID>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>WSS\CSharp\1033\ItemHandler</RelativePathOnDisk>
+    <TemplateFileName>ItemHandler.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>Обработчик элемента списка</Name>
+        <Description>Обработчик элемента списка</Description>
+        <Icon>ItemHandler.png</Icon>
+        <TemplateID>14FA8A4F-DFF4-482E-9770-3FC806442AB5</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>ItemHandler.cs</DefaultName>
+        <TemplateGroupID>WSS.Templates</TemplateGroupID>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>WSS\CSharp\1033\Job</RelativePathOnDisk>
+    <TemplateFileName>Job.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>Периодическая процедура</Name>
+        <Description>Периодическая процедура</Description>
+        <Icon>Job.png</Icon>
+        <TemplateID>14FA8A4F-DFF4-482E-9770-3FC806442AB5</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>Job.cs</DefaultName>
+        <TemplateGroupID>WSS.Templates</TemplateGroupID>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>WSS\CSharp\1033\ListFormControl</RelativePathOnDisk>
+    <TemplateFileName>ListFormControl.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>Контрол формы</Name>
+        <Description>Контрол формы</Description>
+        <Icon>ListFormControl.png</Icon>
+        <TemplateID>E2E08D7C-0794-4B79-890B-C1CDB982AB0C</TemplateID>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
+        <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+        <DefaultName>ListFormControl</DefaultName>
+        <TemplateGroupID>WSS.Templates</TemplateGroupID>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

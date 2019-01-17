@@ -1,0 +1,14 @@
+﻿.OPTION EXPLICIT
+.Set CabinetNameTemplate=$projectname$.wsp
+.set DiskDirectoryTemplate=CDROM
+.Set CompressionType=MSZIP
+.Set UniqueFiles="ON"
+.Set Cabinet=on
+.Set DiskDirectory1=.
+
+
+
+..\Types_$projectname$.xml					LAYOUTS\WSS\DBF\Types\Types_$projectname$.xml
+..\bin\$projectname$.dll
+
+Manifest.xml

@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable"
+              xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!--  This is the file that defines the actual layout and type of the commands.
+        It is divided in different sections (e.g. command definition, command
+        placement, ...), with each defining a specific set of properties.
+        See the comment before each section for more details about how to
+        use it. -->
+
+  <!--  The VSCT compiler (the tool that translates this file into the binary 
+        format that VisualStudio will consume) has the ability to run a preprocessor 
+        on the vsct file; this preprocessor is (usually) the C++ preprocessor, so 
+        it is possible to define includes and macros with the same syntax used 
+        in C++ files. Using this ability of the compiler here, we include some files 
+        defining some of the constants that we will use inside the file. -->
+
+  <!--This is the file that defines the IDs for all the commands exposed by VisualStudio. -->
+  <Extern href="stdidcmd.h" />
+
+  <!--This header contains the command ids for the menus provided by the shell. -->
+  <Extern href="vsshlids.h" />
+
+  <!--The Commands section is where we the commands, menus and menu groups are defined.
+      This section uses a Guid to identify the package that provides the command defined inside it. -->
+
+  <!-- Гуид для идентификации комманд и элементов, объявленных внутри элемента <Commands>-->
+  <Commands package="Package">
+    <!-- 
+    Комментарий с объяснением:
+    
+    чтобы создать вложенное контекстное меню, надо создать:
+    Группа (привязана непосредственно к IDM_VS_CTXT_PROJNODE)
+    Меню (привязана к предыдущей группе)
+    Группа (привязана к предыдущему меню)
+    Кнопка (привязана к предыдущей группе)
+      
+      -->
+
+
+    <!-- 
+        Список полезностей        
+        https://blogs.msdn.microsoft.com/martintracy/2006/05/16/common-context-menu-constants/ 
+        https://www.viva64.com/ru/b/0170/
+        -->
+
+    <!-- In this section you can define new menu groups. A menu group is a container for 
+         other menus or buttons (commands); from a visual point of view you can see the 
+         group as the part of a menu contained between two lines. The parent of a group 
+         must be a menu. -->
+    <Groups>
+
+      <!-- Меню при клике на файл в проекте -->
+      <Group guid="WSSItemNodeMenuGroup" id="MenuGroup">
+        <Parent guid="guidSHLMainMenu" id="IDM_VS_CTXT_ITEMNODE" />
+      </Group>
+
+      <Group guid="WSSButtonGroup" id="SubMenu">
+        <Parent guid="WSSMenus" id="ItemNodeMenu" />
+      </Group>
+
+      <!-- Меню при клике на файл проекта -->
+      <Group guid="WSSProjectNodeMenuGroup" id="MenuGroup">
+        <Parent guid="guidSHLMainMenu" id="IDM_VS_CTXT_PROJNODE" />
+      </Group>
+
+      <Group guid="WSSProjectNodeMenuButtonGroup" id="Buttons">
+        <Parent guid="WSSMenusProjectNode" id="ProjectNodeMenu" />
+      </Group>
+      
+      <!-- Меню при клике на References -->
+      <Group guid="WSSReferencesNodeMenuGroup" id="MenuGroup" priority="0x0150">
+        <Parent guid="guidSHLMainMenu" id="IDM_VS_CTXT_REFERENCEROOT"/>
+      </Group>
+    </Groups>
+
+    <!-- Inside this section we have different sub-sections: one for the menus, another  
+    for the menu groups, one for the buttons (the actual commands), one for the combos 
+    and the last one for the bitmaps used. Each element is identified by a command id that  
+    is a unique pair of guid and numeric identifier; the guid part of the identifier is usually  
+    called "command set" and is used to group different command inside a logically related  
+    group; your package should define its own command set in order to avoid collisions  
+    with command ids defined by other packages. -->
+    <Menus>
+      <Menu guid="WSSMenus" id="ItemNodeMenu" priority="0x0600" type="Menu">
+        
+        <Parent guid="WSSItemNodeMenuGroup" id="MenuGroup" />
+        <Strings>
+          <ButtonText>WSSDeveloper</ButtonText>
+          <CommandName>WSS</CommandName>
+        </Strings>
+      </Menu>
+
+      <Menu guid="WSSMenusProjectNode" id="ProjectNodeMenu" priority="0x0600" type="Menu">
+        <Parent guid="WSSProjectNodeMenuGroup" id="MenuGroup" />
+        <Strings>
+          <ButtonText>WSSDeveloper</ButtonText>
+          <CommandName>WSS</CommandName>
+        </Strings>
+      </Menu>
+    </Menus>
+
+    <!--Buttons section. -->
+    <!--This section defines the elements the user can interact with, like a menu command or a button 
+        or combo box in a toolbar. -->
+    <Buttons>
+      <!--To define a menu group you have to specify its ID, the parent menu and its display priority. 
+          The command is visible and enabled by default. If you need to change the visibility, status, etc, you can use
+          the CommandFlag node.
+          You can add more than one CommandFlag node e.g.:
+              <CommandFlag>DefaultInvisible</CommandFlag>
+              <CommandFlag>DynamicVisibility</CommandFlag>
+          If you do not want an image next to your command, remove the Icon node /> -->
+
+      <!--Add to Deploy\Manifest-->
+      <Button guid="WSSCommands" id="Btn1" priority="0x0100" type="Button">
+        <Parent guid="WSSButtonGroup" id="SubMenu" />
+        <Icon guid="guidImages2" id="1" />
+        <Strings>
+          <ButtonText>Добавить в Deploy</ButtonText>
+        </Strings>
+      </Button>
+
+      <!-- Add to types.xml -->
+      <Button guid="WSSCommands" id="AddToTypesXml" priority="0x0100" type="Button">
+        <Parent guid="WSSButtonGroup" id="SubMenu" />
+        <Icon guid="guidImages2" id="1" />
+        <Strings>
+          <ButtonText>Добавить в Types.xml</ButtonText>
+        </Strings>
+      </Button>
+      
+      <!--Deploy-->
+      <Button guid="WSSCommands" id="DeployBtn" priority="0x0100" type="Button">
+        <Parent guid="WSSProjectNodeMenuButtonGroup" id="Buttons"></Parent>
+        <Icon guid="guidImages2" id="1" />
+        <Strings>
+          <ButtonText>Выложить комплект ...</ButtonText>
+        </Strings>
+      </Button>
+
+      <!--Make release-->
+      <Button guid="WSSCommands" id="Test" priority="0x0101" type="Button">
+        <Parent guid="WSSProjectNodeMenuButtonGroup" id="Buttons"></Parent>
+        <Icon guid="guidImages2" id="1" />
+        <Strings>
+          <ButtonText>Сформировать Release</ButtonText>
+        </Strings>
+      </Button>
+
+      <!--References check-->
+      <Button guid="WSSCommands" id="RefCheck" priority="0x0100" type="Button">
+        <Parent guid="WSSReferencesNodeMenuGroup" id="MenuGroup"></Parent>
+        <Icon guid="guidImages2" id="1" />
+        <Strings>
+          <ButtonText>Проверить</ButtonText>
+        </Strings>
+      </Button>
+    </Buttons>
+
+    <!--The bitmaps section is used to define the bitmaps that are used for the commands.-->
+    <Bitmaps>
+      <!--  The bitmap id is defined in a way that is a little bit different from the others: 
+            the declaration starts with a guid for the bitmap strip, then there is the resource id of the 
+            bitmap strip containing the bitmaps and then there are the numeric ids of the elements used 
+            inside a button definition. An important aspect of this declaration is that the element id 
+            must be the actual index (1-based) of the bitmap inside the bitmap strip. -->
+      <Bitmap guid="guidImages" href="Resources\Images_wss.png"
+              usedList="logo, bmpPic2, bmpPicSearch, bmpPicX, bmpPicArrows, bmpPicStrikethrough" />
+      <Bitmap guid="guidImages2" href="Resources\Images_wss.png" usedList="1" />
+
+    </Bitmaps>
+
+  </Commands>
+
+  <Symbols>
+    <!-- Package -->
+    <GuidSymbol name="Package" value="{5BAEFD29-0E52-4A7D-ABBD-D10944C72072}" />
+
+    <!-- Menus -->
+    <GuidSymbol name="WSSMenus" value="{2A0672FB-EC5B-44E3-8334-5CD7311656E6}">
+      <IDSymbol name="ItemNodeMenu" value="{4C9AF899-FE2E-40DD-A9CE-FFB0E4DBE70D}" />
+    </GuidSymbol>
+    <GuidSymbol name="WSSMenusProjectNode" value="{1DEF04AD-200F-47B3-851E-87C1B1E00E1D}">
+      <IDSymbol name="ProjectNodeMenu" value="{8B61B528-5698-4B84-BEEC-955E9416AB6D}" />
+    </GuidSymbol>
+    <GuidSymbol name="WSSMenusReferencesNode" value="{9179B9C2-3072-4CAD-BD5E-B9DDF39FE317}">
+      <IDSymbol name="ReferencesNodeMenu" value="{74604A7B-E632-4134-AF49-A35386D287C5}"/>
+    </GuidSymbol>
+
+    <!-- Groups-->
+    <GuidSymbol name="WSSButtonGroup" value="{F71B9760-9AF6-48B7-A29E-0A528FF97438}">
+      <IDSymbol name="SubMenu" value="{0AB25F03-7A74-44B0-B478-466FD3D1C7D9}" />
+    </GuidSymbol>
+
+    <GuidSymbol name="WSSItemNodeMenuGroup" value="{ADB512AA-9993-48D4-8F60-AF078AE6F1C7}">
+      <IDSymbol name="MenuGroup" value="{8D6115EC-5ABF-4978-94D9-3ACF4FE18343}" />
+    </GuidSymbol>
+
+    <GuidSymbol name="WSSReferencesNodeMenuGroup" value="{F257F752-CBAC-4504-AB09-0464C12BD45C}">
+      <IDSymbol name="MenuGroup" value="{BB4849E4-9DCC-4025-8237-2ED9A9E7DEDA}"/>
+    </GuidSymbol>
+    
+    
+
+    <!-- Button commands -->
+    <GuidSymbol name="WSSCommands" value="{4AA4737A-542F-452D-8550-C1EB389CFBAC}">
+      <IDSymbol name="Btn1" value="0x100" />
+      <IDSymbol name="DeployBtn" value="0x101" />
+      <IDSymbol name="Test" value="0x102" />
+      <IDSymbol name="RefCheck" value="0x103"/>
+      <IDSymbol name="AddToTypesXml" value="0x104" />
+    </GuidSymbol>
+
+    <GuidSymbol name="WSSProjectNodeMenuGroup" value="{CFA517BD-6603-4FB7-B9BF-A68EC01FC0B8}">
+      <IDSymbol name="MenuGroup" value="{7BB76200-5B68-44DE-81F0-853136701FC0}" />
+    </GuidSymbol>
+
+    <GuidSymbol name="WSSProjectNodeMenuButtonGroup" value="{DA0CED10-A076-46CC-8D52-809CA82D0720}">
+      <IDSymbol name="Buttons" value="{B9CB7094-07D0-4E4B-BC09-65C4F72BAAC9}" />
+    </GuidSymbol>
+    <GuidSymbol name="WSSReferencesNodeMenuButtonGroup" value="{9C645163-6FDA-465A-92F1-9C2D53D38956}">
+      <IDSymbol name="Buttons" value="{7BE63FBE-07E0-49A7-99F9-59E60300E8F7}"/>
+    </GuidSymbol>
+
+    <!-- Images -->
+    <GuidSymbol name="guidImages" value="{a8462b6f-c599-4f35-8566-3f0a596f927e}">
+      <IDSymbol name="logo" value="1" />
+      <IDSymbol name="bmpPic2" value="2" />
+      <IDSymbol name="bmpPicSearch" value="3" />
+      <IDSymbol name="bmpPicX" value="4" />
+      <IDSymbol name="bmpPicArrows" value="5" />
+      <IDSymbol name="bmpPicStrikethrough" value="6" />
+    </GuidSymbol>
+
+    <GuidSymbol name="guidImages2" value="{5F9D9372-6403-430E-8B05-A25DC8B458B1}">
+
+    </GuidSymbol>
+  </Symbols>
+
+</CommandTable>

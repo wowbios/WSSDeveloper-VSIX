@@ -1,0 +1,20 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>WSS\CSharp\1033\CustomProject</RelativePathOnDisk>
+    <TemplateFileName>CustomProject.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <Name>WSSDocs модуль</Name>
+        <Description>Проект модуля для WSSDocs</Description>
+        <Icon>CustomProject.png</Icon>
+        <ProjectType>CSharp</ProjectType>
+        <RequiredFrameworkVersion>3.5</RequiredFrameworkVersion>
+        <SortOrder>1000</SortOrder>
+        <TemplateID>4d25d463-f1f4-486c-bfd6-017f1b16dcc8</TemplateID>
+        <CreateNewFolder>true</CreateNewFolder>
+        <DefaultName>WSSC.V4.DMS.Module</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>

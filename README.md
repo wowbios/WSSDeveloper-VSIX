@@ -1,0 +1,1 @@
+WSSDeveloper-VSIX
